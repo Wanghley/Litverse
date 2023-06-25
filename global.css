@@ -1,0 +1,13 @@
+@import url("styles/header.css");
+
+:root {
+    --background: #EBECEE;
+}
+
+body{
+    background-color: var(--background);   
+}
+
+h1{
+    background-color: white;
+}
